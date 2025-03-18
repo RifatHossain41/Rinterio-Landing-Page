@@ -4,7 +4,7 @@ import img1 from "../assets/image/commercial.png";
 import img2 from "../assets/image/residential.png";
 const AboutUs = () => {
   return (
-    <div className="">
+    <div className="py-16 px-2">
       <div className="lg:flex gap-4">
         <div className="lg:w-1/2">
           <button className="flex items-center gap-2 bg-white px-2 rounded-3xl">

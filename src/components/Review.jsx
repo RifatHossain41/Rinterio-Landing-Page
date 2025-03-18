@@ -6,7 +6,7 @@ import { IoPeople } from "react-icons/io5";
 const Review = () => {
   return (
     <div>
-      <div className="lg:flex items-center justify-center gap-44 mt-14 rounded-3xl bg-white p-10">
+      <div className="lg:flex items-center justify-center gap-44 rounded-3xl bg-white p-10">
         <div className="text-center">
           <LuMessageSquareText className="mx-auto" size={30} />
           <h2 className="my-2 text-2xl font-bold">235+</h2>
