@@ -2,7 +2,7 @@ import { MdArrowOutward } from "react-icons/md";
 import bann from "../assets/image/banner.png";
 const Banner = () => {
   return (
-    <div>
+    <div className="bg-white p-16">
       <div>
         <div>
           <img className="mx-auto" src={bann} alt="img" />
